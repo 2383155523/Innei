@@ -88,7 +88,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>5/22/2022</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>5/15/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/bump-version target=_blank><b>Innei/bump-version</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td>10/2/2021</td><td>2/18/2022</td></tr><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>5/31/2022</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -100,7 +100,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/The-Run-Philosophy-Organization/run>The-Run-Philosophy-Organization/run</a><p>润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。</p></li><li><a href=https://github.com/t9tio/open-source-jobs>t9tio/open-source-jobs</a><p>A list of Open Source projects offering jobs.</p></li><li><a href=https://github.com/MichealWayne/books>MichealWayne/books</a><p>一些前端/设计相关的书籍（电子书）</p></li><li><a href=https://github.com/R-r-riddikulus/riddikulus-shanghai-2022>R-r-riddikulus/riddikulus-shanghai-2022</a><p>上海2022封城实录</p></li><li><a href=https://github.com/missive/emoji-mart>missive/emoji-mart</a><p>🏪 One component to pick them all</p></li></ul>
+<ul><li><a href=https://github.com/labring/laf>labring/laf</a><p>laf is a serverless framework, lets you write code like writing a blog!</p></li><li><a href=https://github.com/The-Run-Philosophy-Organization/run>The-Run-Philosophy-Organization/run</a><p>润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。</p></li><li><a href=https://github.com/Dapp-Learning-DAO/Dapp-Learning>Dapp-Learning-DAO/Dapp-Learning</a><p>Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.</p></li><li><a href=https://github.com/shikijs/shiki>shikijs/shiki</a><p>A beautiful Syntax Highlighter.</p></li><li><a href=https://github.com/maqi1520/mdx-editor>maqi1520/mdx-editor</a><p>微信排版编辑器，使用MDX，可自定义组件、样式、生成二维码、代码 diff 高亮，可导出 markdown 和 PDF</p></li></ul>
 
 **你能找到我吗**
 
@@ -109,4 +109,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/6/22, 8:28 AM<br>下一次刷新：6/6/22, 11:28 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/6/22, 5:04 PM<br>下一次刷新：6/6/22, 8:04 PM</p>
