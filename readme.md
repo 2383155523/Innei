@@ -1,6 +1,6 @@
 # Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
 
-Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段为在读学生，坐标温州。
+Innei 是一个热衷于探索全栈开发新事物的初级萌新。刚毕业的社畜，沦落于上海。
 
 在互联网领域，他常常在 GitHub 中活跃，并且向往于成为自由独立开发者。
 
@@ -88,7 +88,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://react-shortcut-guide-7ukzlytvm-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>6/2/2022</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>1/2/2022</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>5/27/2021</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-message target=_blank><b>reactify-component/react-message</b></a> <a href=https://react-message.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-message?style=flat-square&labelColor=343b41"></td><td>1/13/2022</td><td>5/31/2022</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>6/9/2022</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>5/27/2021</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -100,7 +100,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/zc2638/ddshop>zc2638/ddshop</a><p>叮咚买菜自动抢购（内附 其它团购途径，包含所有生活必需品及药品）</p></li><li><a href=https://github.com/shikijs/shiki>shikijs/shiki</a><p>A beautiful Syntax Highlighter.</p></li><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/t9tio/open-source-jobs>t9tio/open-source-jobs</a><p>A list of Open Source projects offering jobs.</p></li><li><a href=https://github.com/Rich-Harris/degit>Rich-Harris/degit</a><p>Straightforward project scaffolding</p></li></ul>
+<ul><li><a href=https://github.com/The-Run-Philosophy-Organization/run>The-Run-Philosophy-Organization/run</a><p>润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。</p></li><li><a href=https://github.com/Rich-Harris/degit>Rich-Harris/degit</a><p>Straightforward project scaffolding</p></li><li><a href=https://github.com/codex-team/editor.js>codex-team/editor.js</a><p>A block-styled editor with clean JSON output</p></li><li><a href=https://github.com/bloomberg/memray>bloomberg/memray</a><p>Memray is a memory profiler for Python</p></li><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li></ul>
 
 **你能找到我吗**
 
@@ -109,4 +109,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/9/22, 5:10 PM<br>下一次刷新：6/9/22, 8:10 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/9/22, 8:09 PM<br>下一次刷新：6/9/22, 11:09 PM</p>
