@@ -88,7 +88,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。刚毕业�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>5/15/2022</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>6/9/2022</td></tr><tr><td><a href=https://github.com/Innei/vue-react-wrapper target=_blank><b>Innei/vue-react-wrapper</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/vue-react-wrapper?style=flat-square&labelColor=343b41"></td><td>5/9/2022</td><td>5/22/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>1/2/2022</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>5/27/2021</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>5/31/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -100,7 +100,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。刚毕业�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/release-it/release-it>release-it/release-it</a><p>🚀 Automate versioning and package publishing</p></li><li><a href=https://github.com/zc2638/ddshop>zc2638/ddshop</a><p>叮咚买菜自动抢购（内附 其它团购途径，包含所有生活必需品及药品）</p></li><li><a href=https://github.com/nektos/act>nektos/act</a><p>Run your GitHub Actions locally 🚀</p></li><li><a href=https://github.com/MichealWayne/books>MichealWayne/books</a><p>一些前端/设计相关的书籍（电子书）</p></li><li><a href=https://github.com/R-r-riddikulus/riddikulus-shanghai-2022>R-r-riddikulus/riddikulus-shanghai-2022</a><p>上海2022封城实录</p></li></ul>
+<ul><li><a href=https://github.com/shikijs/shiki>shikijs/shiki</a><p>A beautiful Syntax Highlighter.</p></li><li><a href=https://github.com/release-it/release-it>release-it/release-it</a><p>🚀 Automate versioning and package publishing</p></li><li><a href=https://github.com/formkit/auto-animate>formkit/auto-animate</a><p>A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.</p></li><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li><li><a href=https://github.com/antfu/vue-starport>antfu/vue-starport</a><p>🛰 Shared component across routes with animations</p></li></ul>
 
 **你能找到我吗**
 
@@ -109,4 +109,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。刚毕业�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/22, 5:03 AM<br>下一次刷新：6/10/22, 8:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/22, 2:07 PM<br>下一次刷新：6/10/22, 5:07 PM</p>
