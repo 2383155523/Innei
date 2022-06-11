@@ -88,7 +88,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。刚毕业�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-shortcut-guide target=_blank><b>reactify-component/react-shortcut-guide</b></a> <a href=https://react-shortcut-guide-7ukzlytvm-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-shortcut-guide?style=flat-square&labelColor=343b41"></td><td>5/29/2022</td><td>6/2/2022</td></tr><tr><td><a href=https://github.com/Innei/bump-version target=_blank><b>Innei/bump-version</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td>10/2/2021</td><td>2/18/2022</td></tr><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>5/31/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/reactify-component/react-typewriter target=_blank><b>reactify-component/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/reactify-component/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>5/31/2022</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>5/15/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -100,7 +100,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。刚毕业�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/forrestbao/Run>forrestbao/Run</a><p>CS教授的靠譜潤學</p></li><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li><li><a href=https://github.com/missive/emoji-mart>missive/emoji-mart</a><p>🏪 One component to pick them all</p></li><li><a href=https://github.com/stuyam/pressure>stuyam/pressure</a><p>:point_down::boom: JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure.</p></li><li><a href=https://github.com/geekan/HowToLiveLonger>geekan/HowToLiveLonger</a><p>程序员延寿指南 | A programmer's guide to live longer</p></li></ul>
+<ul><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/Dapp-Learning-DAO/Dapp-Learning>Dapp-Learning-DAO/Dapp-Learning</a><p>Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.</p></li><li><a href=https://github.com/antfu/vue-starport>antfu/vue-starport</a><p>🛰 Shared component across routes with animations</p></li><li><a href=https://github.com/MichealWayne/books>MichealWayne/books</a><p>一些前端/设计相关的书籍（电子书）</p></li><li><a href=https://github.com/Rich-Harris/degit>Rich-Harris/degit</a><p>Straightforward project scaffolding</p></li></ul>
 
 **你能找到我吗**
 
@@ -109,4 +109,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。刚毕业�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/11/22, 11:04 PM<br>下一次刷新：6/12/22, 2:04 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/12/22, 2:05 AM<br>下一次刷新：6/12/22, 5:05 AM</p>
